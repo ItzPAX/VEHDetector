@@ -1,2 +1,2 @@
 # VEHDetector
-Hookless VEH Detector
+Hookless VEH Detector most structs are pulled directly from ReactOS
